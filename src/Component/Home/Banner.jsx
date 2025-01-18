@@ -12,7 +12,7 @@ const Banner = () => {
             </div>
             </div>
             <div className='image'>
-                <img src="/banner.png" alt="" />
+                <img src="/banner.png" alt="banner"/>
             </div>
         </div>
     </section>

@@ -14,7 +14,9 @@ export default {
       center: true
     },
         fontFamily: {
-        roboto:["Roboto", "sans-serif"]
+        roboto:["Roboto", "sans-serif"],
+        frank:["Frank Ruhl Libre", "serif"],
+        poppins:["Poppins", "serif"]
       },
   },
   plugins: [],
