@@ -11,14 +11,16 @@ const Newcollection = () => {
             </div>
             <div className='grid grid-cols-3 justify-items-center gap-4 image2 mt-10 relative mb-24'>
                 <div className='relative'>
-                <img src="/collection_1.png" alt="" />
-                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
-                </div><div className='relative'>
-                <img src="/collection_1.png" alt="" />
-                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
-                </div><div className='relative'>
-                <img src="/collection_1.png" alt="" />
-                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
+                <img src="/collection_1.png"/>
+                <p className='absolute bottom-11 left-1/2 transform -translate-x-1/2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins'>jeans</p>
+                </div>
+                <div className='relative'>
+                <img src="/collection_1.png"/>
+                <p className='absolute bottom-11 left-1/2 transform -translate-x-1/2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins'>jeans</p>
+                </div>
+                <div className='relative'>
+                <img src="/collection_1.png"/>
+                <p className='absolute bottom-11 left-1/2 transform -translate-x-1/2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins'>jeans</p>
                 </div>
             </div>
         </div>

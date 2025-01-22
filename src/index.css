@@ -7,3 +7,10 @@
 .image2 img{
     border-radius: 20px;
 }
+.image3 img{
+    border-top-left-radius: 150px;
+}
+.image4 img{
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px;
+}
