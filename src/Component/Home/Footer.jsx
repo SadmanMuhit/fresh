@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='w-80 mt-[35px]'>
             <h3 className='font-bold text-[64px] mb-11 text-white'>Best Seller Product</h3>
             <p className='w-[500px] text-2xl font-bold text-white mb-10'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac neque, velit tortor quam at donec etiam bibendum sagittis. Libero tempor, lacus amet, scelerisque neque mauris odio risus nec. Nisl, parturient at morbi morbi sit arcu. At integer maecenas tortor non lectus.</p>
-            <a href="#" className='border border-spacing-2 border-black bg-black text-white py-6 px-24 rounded-xl text-2xl font-bold'>SEE MORE</a> 
+            <a href="#" className='hover:border hover:border-spacing-2 border-white hover:bg-inherit hover:text-white bg-black text-white py-6 px-24 rounded-xl text-2xl font-bold duration-300'>SEE MORE</a> 
         </div>
         <div className='flex gap-8 mt-[60px]'>
         <div className='image4'>
