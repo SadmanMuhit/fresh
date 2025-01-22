@@ -9,10 +9,17 @@ const Newcollection = () => {
             <h1 className='font-bold text-6xl font-frank mb-10'>New Collection</h1>
             <p className='font-normal text-2xl font-poppins'>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>
-            <div className='grid grid-cols-3 justify-items-center gap-4 image2 mt-10'>
+            <div className='grid grid-cols-3 justify-items-center gap-4 image2 mt-10 relative mb-24'>
+                <div className='relative'>
                 <img src="/collection_1.png" alt="" />
+                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
+                </div><div className='relative'>
                 <img src="/collection_1.png" alt="" />
+                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
+                </div><div className='relative'>
                 <img src="/collection_1.png" alt="" />
+                <p className='absolute bottom-2 left-2 py-3 px-28 bg-white text-black rounded font-normal text-2xl font-poppins hover:text-black'>jeans</p>
+                </div>
             </div>
         </div>
     </section>
