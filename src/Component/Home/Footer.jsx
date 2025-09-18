@@ -32,7 +32,8 @@ const Footer = () => {
             </div>
             </div>
         </div>
-        </div><div className='image4'>
+        </div>
+        <div className='image4'>
         <img src="/footer_img_1.png"/>
         <div className='bg-white w-[366px] p-6'>
         <div className='flex gap-2 text-primary mb-3'>
